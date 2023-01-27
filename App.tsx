@@ -38,7 +38,8 @@ export default function App() {
     Inter_800ExtraBold,
     Inter_900Black
   })
- 
+
+
   return (
     <HeaderContextProvider>
       <ToggleThemeContextProvider>
